@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdebcrafter_docs=self.webpackChunkdebcrafter_docs||[]).push([[3024],[e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/debcrafter-docs/blog/tags/hello","allTagsPath":"/debcrafter-docs/blog/tags","count":2}')}]]);

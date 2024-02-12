@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdebcrafter_docs=self.webpackChunkdebcrafter_docs||[]).push([[284],{3760:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/debcrafter-docs/blog/tags/docusaurus","allTagsPath":"/debcrafter-docs/blog/tags","count":4}')}}]);
