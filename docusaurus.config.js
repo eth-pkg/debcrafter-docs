@@ -18,8 +18,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "eenagy", // Usually your GitHub org/user name.
+  organizationName: "eth-pkg", // Usually your GitHub org/user name.
   projectName: "debcrafter.github.io", // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
